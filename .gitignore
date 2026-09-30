@@ -1,0 +1,10 @@
+# Local Terraform files
+**/.terraform/*
+*.tfstate
+*.tfstate.*
+*.tfvars
+*.tfvars.json
+.terraform.lock.hcl
+
+# Scratch directory
+scratch/
